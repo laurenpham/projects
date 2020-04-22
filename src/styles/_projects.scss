@@ -59,10 +59,12 @@
   @media only screen and (min-width: $cut) {
     float: left;
     width: 48%;
+    align-items: center
   }
   img {
     @media only screen and (min-width: $cut) {
       float: left;
+      align-items: center
     }
   }
 }
